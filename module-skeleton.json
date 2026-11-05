@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-audio-devices-nuxt",
+  "capabilityKey": "liberusoftware/music-audio-devices",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-music-audio-devices-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/music/nextjs/audio-devices.md",
+  "presentationPlan": "projects/music/nuxt/audio-devices.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
